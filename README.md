@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - My Blog
-<a href="https://happymingkyjr.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<p><a href="https://happymingkyjr.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
 
 - Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
