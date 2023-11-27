@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 윤원영 YOON WONYOUNG
+
 - My Blog
 <p><a href="https://happymingkyjr.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
 
-- Stack
+- Skill Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <!-- Frontend -->
     <p><strong>Frontend</strong></p>
